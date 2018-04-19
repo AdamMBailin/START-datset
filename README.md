@@ -13,3 +13,6 @@ The objectives of this project were to:
 
 ## Findings:
 I compared number of domestic terrorist events in the US during the Bush administration to the number of events that occured during the Obama administration, when there was a notable trend in white supremacist groups. The two eras were not significantly different using the prior of the average number of terrorist acts in the US from 1970 to 2016. I also used bayesian regression to impute the number of bombings based one the preceeding and following 5 years from 1993. I took the number of bombings per country per year and used Pymc3 to impute the value. My regression predicted that 1380 bombings occured that year.
+
+## What I learned:
+I learned how to use Tableau to make visualizations. In particular how to make timelapses with tableau. I also learned how to use Pymc3 for Bayesian Inference and Bayesian Regression. Additionally, I expanded on my EDA and data munging skills.
